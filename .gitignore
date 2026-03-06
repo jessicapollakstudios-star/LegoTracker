@@ -1,0 +1,17 @@
+# Your personal LEGO collection database — don't share this publicly
+lego_collection.db
+
+# Your real API key — never commit this!
+config.py
+
+# Python cache files — generated automatically, not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store
+
+# Virtual environments (if you ever use one)
+venv/
+.env
